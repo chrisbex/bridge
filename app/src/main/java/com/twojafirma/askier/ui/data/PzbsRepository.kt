@@ -67,7 +67,6 @@ class PzbsRepository {
         }
     }
 
-    // TA FUNKCJA BYŁA BRAKUJĄCA
     suspend fun getPlayerDetails(pid: Int): PlayerProfile? {
         val url = "https://msc.com.pl/cezar/?p=21&pid_search=$pid"
         return try {
@@ -118,31 +117,62 @@ class PzbsRepository {
             val pid = pidText?.toIntOrNull()
             val club = doc.select("span[style*='font-size: 18px'] a b").first()?.text()?.trim()
             val title = doc.select("span[style*='font-size:18px'][style*='color:#006934']").first()?.text()?.trim()
-            val totalPklText = doc.select("tr:has(td:contains(Punkty klasyfikacyjne)) > td").last()?.text()
-            val totalPkl = totalPklText?.toFloatOrNull()
-            val currentWkText = doc.select("span:contains(WK =) > span").first()?.text()?.trim()
-            val currentWk = currentWkText?.toFloatOrNull()
+
+            // Parsowanie miasta - na razie placeholder, bo nie mamy selektora z HTML
+            val cityValue = "N/A" // Możesz zmienić na "" jeśli wolisz
 
             val historyRows = doc.select("table[style*='margin:4px 0px'] tr[style*='cursor:pointer']")
-            val pklHistory = historyRows.mapNotNull { row ->
+            val pklHistoryEntries = mutableListOf<PklHistoryEntry>()
+            var sumOfPklFromHistory = 0f
+
+            historyRows.forEach { row ->
                 val columns = row.select("td")
                 if (columns.size >= 3) {
-                    PklHistoryEntry(
-                        year = columns[0].text().trim(),
-                        pkl = columns[1].text().replace("PKL:", "").trim(),
-                        wk = columns[2].text().replace("WK:", "").trim()
+                    val year = columns[0].text().trim()
+                    val pklCellText = columns[1].text()
+                    val wkCellText = columns[2].text().replace("WK:", "").trim()
+                    val pklValueString = pklCellText.substringAfterLast("+", "").trim().split(" ")[0]
+
+                    pklHistoryEntries.add(
+                        PklHistoryEntry(
+                            year = year,
+                            pkl = pklValueString,
+                            wk = wkCellText
+                        )
                     )
-                } else { null }
+                    sumOfPklFromHistory += pklValueString.toFloatOrNull() ?: 0f
+                }
             }
+            Log.d("PzbsRepo_ParseNum", "Zsumowane PKL z historii: $sumOfPklFromHistory")
+
+            val currentWkText = doc.select("a:contains(WK =) > span[style*='font-size: 24px']").first()?.text()?.trim()
+            val currentWk = currentWkText?.replace(",", ".")?.toFloatOrNull()
+
+            Log.d("PzbsRepo_ParseNum", "Final values -> totalPkl (zsumowane z historii): $sumOfPklFromHistory, currentWk (z góry strony): $currentWk")
 
             if (pid != null && name != null) {
                 val photoUrl = "https://msc.com.pl/cezar1/fots/${pid}a.jpg"
-                listOf(PlayerProfile(pid, name, club ?: "", "", photoUrl, null, title, pklHistory, totalPkl, currentWk))
+                listOf(
+                    PlayerProfile(
+                        pid = pid,
+                        name = name,
+                        club = club ?: "",
+                        city = cityValue, // <--- DODANO BRAKUJĄCE MIASTO
+                        photoUrl = photoUrl,
+                        photoData = null,
+                        title = title,
+                        pklHistory = pklHistoryEntries,
+                        totalPkl = sumOfPklFromHistory,
+                        currentWk = currentWk
+                    )
+                )
             } else {
                 emptyList()
             }
         } catch (e: Exception) {
+            Log.e("PzbsRepo_ParseError", "Błąd podczas parsowania profilu gracza", e)
             emptyList()
         }
     }
 }
+

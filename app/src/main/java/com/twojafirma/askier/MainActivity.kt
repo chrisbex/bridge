@@ -1,6 +1,7 @@
 package com.twojafirma.askier
 
 import android.os.Bundle
+import android.util.Log // Dodano import Log
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
@@ -31,6 +32,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        Log.e("MY_APP_TAG", "MainActivity onCreate - TEST LOG") // <--- DODANY LOG
         setContent {
             val themeSetting by settingsViewModel.themeSetting.collectAsState()
             val useDarkTheme = when (themeSetting) {
@@ -105,7 +107,10 @@ fun AppNavHost(
         ) { backStackEntry ->
             val pid = backStackEntry.arguments?.getInt("pid")
             if (pid != null) {
-                PlayerDetailsScreen(pid = pid, navController = navController)
+                PlayerDetailsScreen(pid = pid, navController = navController) // Poprawione wywołanie
+            } else {
+                // Opcjonalna obsługa, gdyby pid było null
+                Log.e("AppNavHost", "PID is null for PlayerDetailsScreen route.")
             }
         }
     }

@@ -15,7 +15,6 @@ data class PlayerProfile(
     val photoData: ByteArray? = null,
     val title: String? = null,
     val pklHistory: List<PklHistoryEntry> = emptyList(),
-    // --- UPEWNIJ SIĘ, ŻE TE DWA POLA ISTNIEJĄ ---
     val totalPkl: Float? = null,
     val currentWk: Float? = null
 ) {
