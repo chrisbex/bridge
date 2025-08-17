@@ -1,5 +1,6 @@
 package com.twojafirma.askier.ui.screens
 
+import androidx.compose.animation.AnimatedVisibility // NOWY IMPORT
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.border
@@ -16,6 +17,8 @@ import androidx.compose.material.icons.filled.Add
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Delete
+import androidx.compose.material.icons.filled.KeyboardArrowDown // NOWY IMPORT
+import androidx.compose.material.icons.filled.KeyboardArrowUp // NOWY IMPORT
 import androidx.compose.material.icons.filled.Person
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
@@ -35,7 +38,7 @@ import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import com.twojafirma.askier.Screen
 import com.twojafirma.askier.ui.data.*
-import com.twojafirma.askier.ui.data.Double
+import com.twojafirma.askier.ui.data.Double // Upewnij się, że to jest poprawny import dla Twojego enum 'Double'
 import java.text.SimpleDateFormat
 import java.util.*
 
@@ -205,17 +208,45 @@ fun GameSessionView(
     onPlayerSeatLongClick: (Player) -> Unit,
     onDeleteLastDeal: () -> Unit
 ) {
+    var isPlayerTableExpanded by remember { mutableStateOf(true) } // NOWY STAN
+
     ScoreboardView(nsScore = session.totalNsImps)
     Spacer(modifier = Modifier.height(16.dp))
-    PlayerTableView(
-        players = session.players,
-        navController = navController,
-        onPlayerClick = onPlayerSeatClick,
-        onPlayerLongClick = onPlayerSeatLongClick
-    )
+
+    // NOWY BLOK - Przycisk do rozwijania/zwijania stołu graczy
+    Row(
+        modifier = Modifier
+            .fillMaxWidth()
+            .clickable { isPlayerTableExpanded = !isPlayerTableExpanded }
+            .padding(vertical = 8.dp),
+        verticalAlignment = Alignment.CenterVertically,
+        horizontalArrangement = Arrangement.SpaceBetween
+    ) {
+        Text(
+            text = if (isPlayerTableExpanded) "Ukryj stół graczy" else "Pokaż stół graczy",
+            style = MaterialTheme.typography.titleSmall,
+            modifier = Modifier.weight(1f)
+        )
+        Icon(
+            imageVector = if (isPlayerTableExpanded) Icons.Filled.KeyboardArrowUp else Icons.Filled.KeyboardArrowDown,
+            contentDescription = if (isPlayerTableExpanded) "Ukryj stół graczy" else "Pokaż stół graczy"
+        )
+    }
+
+    // PlayerTableView opakowane w AnimatedVisibility
+    AnimatedVisibility(visible = isPlayerTableExpanded) {
+        PlayerTableView(
+            players = session.players,
+            navController = navController,
+            onPlayerClick = onPlayerSeatClick,
+            onPlayerLongClick = onPlayerSeatLongClick
+        )
+    }
+    // Koniec modyfikacji związanych z PlayerTableView
+
     Divider(modifier = Modifier.padding(vertical = 16.dp))
     if (session.deals.isEmpty()) {
-        if (session.players.values.all { it != null }) {
+        if (session.players.values.all { it != null }) { // Upewnij się, że ta logika jest poprawna dla Twojej definicji "wszyscy gracze wybrani"
             Text("Wszyscy gracze wybrani. Kliknij '+' aby dodać rozdanie.", textAlign = TextAlign.Center)
         } else {
             Text("Wybierz wszystkich graczy, aby rozpocząć.", textAlign = TextAlign.Center)
