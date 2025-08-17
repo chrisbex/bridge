@@ -17,12 +17,16 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.navigation.NavController
 import coil.compose.AsyncImage
 import com.twojafirma.askier.R
+import com.twojafirma.askier.Screen
 import com.twojafirma.askier.ui.data.PlayerProfile
 
 @Composable
 fun PlayersScreen(
+    navController: NavController,
+    isDialogMode: Boolean, // <-- Nowy, niezawodny sposób na rozróżnienie trybu
     onPlayerSelected: (PlayerProfile) -> Unit = {}
 ) {
     val playersViewModel: PlayersViewModel = viewModel()
@@ -61,7 +65,13 @@ fun PlayersScreen(
                         items(uiState.players, key = { it.pid }) { player ->
                             PlayerRow(
                                 player = player,
-                                onClick = { onPlayerSelected(player) }
+                                onClick = {
+                                    if (isDialogMode) {
+                                        onPlayerSelected(player)
+                                    } else {
+                                        navController.navigate(Screen.PlayerDetails.createRoute(player.pid))
+                                    }
+                                }
                             )
                         }
                     }
@@ -77,9 +87,7 @@ fun PlayerRow(
     onClick: () -> Unit
 ) {
     Card(
-        modifier = Modifier
-            .fillMaxWidth()
-            .clickable(onClick = onClick)
+        modifier = Modifier.fillMaxWidth().clickable(onClick = onClick)
     ) {
         Row(
             modifier = Modifier.fillMaxWidth().padding(12.dp),

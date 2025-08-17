@@ -31,7 +31,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.navigation.NavController
 import coil.compose.AsyncImage
+import com.twojafirma.askier.Screen
 import com.twojafirma.askier.ui.data.*
 import com.twojafirma.askier.ui.data.Double
 import java.text.SimpleDateFormat
@@ -39,7 +41,10 @@ import java.util.*
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun TournamentsScreen(tournamentsViewModel: TournamentsViewModel = viewModel()) {
+fun TournamentsScreen(
+    navController: NavController,
+    tournamentsViewModel: TournamentsViewModel = viewModel()
+) {
     val uiState by remember { derivedStateOf { tournamentsViewModel.uiState } }
     val sessions by tournamentsViewModel.sessionsFlow.collectAsState()
     val activeSession = sessions.find { it.id == uiState.activeSessionId }
@@ -79,6 +84,7 @@ fun TournamentsScreen(tournamentsViewModel: TournamentsViewModel = viewModel()) 
     ) { paddingValues ->
         if (uiState.isPlayerSelectionDialogVisible) {
             SelectPlayerDialog(
+                navController = navController,
                 onDismiss = { tournamentsViewModel.onDismissPlayerSelection() },
                 onPlayerSelected = { tournamentsViewModel.onPlayerSelected(it) }
             )
@@ -107,6 +113,7 @@ fun TournamentsScreen(tournamentsViewModel: TournamentsViewModel = viewModel()) 
             } else {
                 GameSessionView(
                     session = activeSession,
+                    navController = navController,
                     onPlayerSeatClick = { tournamentsViewModel.onPlayerSeatClick(it) },
                     onPlayerSeatLongClick = { tournamentsViewModel.onPlayerSeatLongClick(it) },
                     onDeleteLastDeal = { tournamentsViewModel.deleteLastDeal() }
@@ -193,6 +200,7 @@ fun SessionRow(
 @Composable
 fun GameSessionView(
     session: GameSession,
+    navController: NavController,
     onPlayerSeatClick: (Player) -> Unit,
     onPlayerSeatLongClick: (Player) -> Unit,
     onDeleteLastDeal: () -> Unit
@@ -201,6 +209,7 @@ fun GameSessionView(
     Spacer(modifier = Modifier.height(16.dp))
     PlayerTableView(
         players = session.players,
+        navController = navController,
         onPlayerClick = onPlayerSeatClick,
         onPlayerLongClick = onPlayerSeatLongClick
     )
@@ -253,15 +262,16 @@ fun ScoreboardView(nsScore: Int) {
 @Composable
 fun PlayerTableView(
     players: Map<Player, PlayerProfile?>,
+    navController: NavController,
     onPlayerClick: (Player) -> Unit,
     onPlayerLongClick: (Player) -> Unit
 ) {
     Box(modifier = Modifier.fillMaxWidth().aspectRatio(1f), contentAlignment = Alignment.Center) {
         Surface(modifier = Modifier.size(120.dp), shape = CircleShape, color = MaterialTheme.colorScheme.primaryContainer, content = {})
-        PlayerSeat(modifier = Modifier.align(Alignment.TopCenter), player = players[Player.N], position = Player.N, onClick = { onPlayerClick(Player.N) }, onLongClick = { onPlayerLongClick(Player.N) })
-        PlayerSeat(modifier = Modifier.align(Alignment.BottomCenter), player = players[Player.S], position = Player.S, onClick = { onPlayerClick(Player.S) }, onLongClick = { onPlayerLongClick(Player.S) })
-        PlayerSeat(modifier = Modifier.align(Alignment.CenterStart), player = players[Player.W], position = Player.W, onClick = { onPlayerClick(Player.W) }, onLongClick = { onPlayerLongClick(Player.W) })
-        PlayerSeat(modifier = Modifier.align(Alignment.CenterEnd), player = players[Player.E], position = Player.E, onClick = { onPlayerClick(Player.E) }, onLongClick = { onPlayerLongClick(Player.E) })
+        PlayerSeat(modifier = Modifier.align(Alignment.TopCenter), player = players[Player.N], position = Player.N, navController = navController, onClick = { onPlayerClick(Player.N) }, onLongClick = { onPlayerLongClick(Player.N) })
+        PlayerSeat(modifier = Modifier.align(Alignment.BottomCenter), player = players[Player.S], position = Player.S, navController = navController, onClick = { onPlayerClick(Player.S) }, onLongClick = { onPlayerLongClick(Player.S) })
+        PlayerSeat(modifier = Modifier.align(Alignment.CenterStart), player = players[Player.W], position = Player.W, navController = navController, onClick = { onPlayerClick(Player.W) }, onLongClick = { onPlayerLongClick(Player.W) })
+        PlayerSeat(modifier = Modifier.align(Alignment.CenterEnd), player = players[Player.E], position = Player.E, navController = navController, onClick = { onPlayerClick(Player.E) }, onLongClick = { onPlayerLongClick(Player.E) })
     }
 }
 
@@ -271,12 +281,19 @@ fun PlayerSeat(
     modifier: Modifier = Modifier,
     player: PlayerProfile?,
     position: Player,
+    navController: NavController,
     onClick: () -> Unit,
     onLongClick: () -> Unit
 ) {
     Column(
         modifier = modifier.combinedClickable(
-            onClick = onClick,
+            onClick = {
+                if (player != null) {
+                    navController.navigate(Screen.PlayerDetails.createRoute(player.pid))
+                } else {
+                    onClick()
+                }
+            },
             onLongClick = onLongClick
         ),
         horizontalAlignment = Alignment.CenterHorizontally
@@ -298,19 +315,24 @@ fun PlayerSeat(
 
 @Composable
 fun SelectPlayerDialog(
+    navController: NavController,
     onDismiss: () -> Unit,
     onPlayerSelected: (PlayerProfile) -> Unit
 ) {
     Dialog(onDismissRequest = onDismiss) {
         Card(modifier = Modifier.fillMaxSize().padding(vertical = 32.dp)) {
             Box(contentAlignment = Alignment.TopEnd) {
-                PlayersScreen(onPlayerSelected = onPlayerSelected)
+                // Przekazujemy isDialogMode = true, aby ekran wiedział, jak się zachować
+                PlayersScreen(
+                    navController = navController,
+                    isDialogMode = true,
+                    onPlayerSelected = onPlayerSelected
+                )
                 IconButton(onClick = onDismiss) { Icon(Icons.Default.Close, contentDescription = "Zamknij") }
             }
         }
     }
 }
-
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AddSessionDealDialog(onDismissRequest: () -> Unit, onConfirmation: (Deal, Int, Int) -> Unit) {
