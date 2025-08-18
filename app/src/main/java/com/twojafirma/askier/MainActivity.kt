@@ -1,7 +1,7 @@
 package com.twojafirma.askier
 
 import android.os.Bundle
-import android.util.Log // Dodano import Log
+import android.util.Log
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
@@ -24,6 +24,8 @@ import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.twojafirma.askier.ui.data.ThemeSetting
 import com.twojafirma.askier.ui.screens.*
+// Upewniamy się, że import dla SpiderScreen jest obecny i odkomentowany
+import com.twojafirma.askier.ui.screens.SpiderScreen 
 import com.twojafirma.askier.ui.theme.AsKierTheme
 
 class MainActivity : ComponentActivity() {
@@ -32,7 +34,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        Log.e("MY_APP_TAG", "MainActivity onCreate - TEST LOG") // <--- DODANY LOG
+        Log.e("MY_APP_TAG", "MainActivity onCreate - TEST LOG")
         setContent {
             val themeSetting by settingsViewModel.themeSetting.collectAsState()
             val useDarkTheme = when (themeSetting) {
@@ -51,7 +53,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun MainScreen(settingsViewModel: SettingsViewModel) {
     val navController = rememberNavController()
-    val bottomBarItems = listOf(Screen.Tournaments, Screen.Players, Screen.Settings)
+    val bottomBarItems = listOf(Screen.Tournaments, Screen.Players, Screen.Spider, Screen.Settings)
 
     Scaffold(
         bottomBar = {
@@ -61,9 +63,7 @@ fun MainScreen(settingsViewModel: SettingsViewModel) {
 
                 bottomBarItems.forEach { screen ->
                     val label = screen.label ?: ""
-                    val iconRes = screen.icon ?: 0
-
-                    if (iconRes != 0) {
+                    screen.icon?.let { iconRes ->
                         NavigationBarItem(
                             icon = { Icon(painterResource(id = iconRes), contentDescription = label) },
                             label = { Text(label) },
@@ -93,13 +93,26 @@ fun MainScreen(settingsViewModel: SettingsViewModel) {
 fun AppNavHost(
     navController: NavHostController,
     modifier: Modifier = Modifier,
-    settingsViewModel: SettingsViewModel
+    settingsViewModel: SettingsViewModel // Dodajemy settingsViewModel jako parametr
 ) {
     NavHost(navController, startDestination = Screen.Tournaments.route, modifier) {
         composable(Screen.Tournaments.route) { TournamentsScreen(navController = navController) }
-        // Przekazujemy isDialogMode = false, bo to jest główna zakładka
         composable(Screen.Players.route) { PlayersScreen(navController = navController, isDialogMode = false) }
-        composable(Screen.Settings.route) { SettingsScreen(viewModel = settingsViewModel) }
+
+        // Zaktualizowane wywołanie SettingsScreen
+        composable(Screen.Settings.route) {
+            SettingsScreen(viewModel = settingsViewModel) // Już nie przekazujemy onNavigateToPlayerProfile
+        }
+
+        // Zaktualizowane wywołanie SpiderScreen
+        composable(Screen.Spider.route) {
+            SpiderScreen(
+                navController = navController, // Przekazujemy navController
+                onNavigateToPlayerProfile = { playerId ->
+                    navController.navigate(Screen.PlayerDetails.route.replace("{pid}", playerId.toString()))
+                }
+            )
+        }
 
         composable(
             route = Screen.PlayerDetails.route,
@@ -107,10 +120,10 @@ fun AppNavHost(
         ) { backStackEntry ->
             val pid = backStackEntry.arguments?.getInt("pid")
             if (pid != null) {
-                PlayerDetailsScreen(pid = pid, navController = navController) // Poprawione wywołanie
+                PlayerDetailsScreen(pid = pid, navController = navController)
             } else {
-                // Opcjonalna obsługa, gdyby pid było null
                 Log.e("AppNavHost", "PID is null for PlayerDetailsScreen route.")
+                // Można dodać Text("Błąd: Brak ID gracza") lub podobny komunikat
             }
         }
     }

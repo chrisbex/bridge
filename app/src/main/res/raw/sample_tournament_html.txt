@@ -1,0 +1,508 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" dir="ltr">
+
+<head>
+  <title>Turniej na impy (cav.)</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" href="/style.css" />
+
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', ' UA-60345444-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <!-- End Google Analytics -->
+</head>
+<body>
+<div id="wrapper">
+	<div id="logoh">
+		<div style="float:left;width:120px;text-align:left;">
+			<a href="https://bridgespider.com/"><img src="https://bridgespider.com/files/logo.png" style="max-width:120px;max-height:60px;" ></a>
+		</div>
+		<div style="float:right;width:120px;text-align:right;">
+						<a href="https://bridgespider.com/"><img src="https://bridgespider.com/files/logo.png" style="max-width:120px;max-height:60px;" ></a>
+					</div>
+		<h1>Turniej na impy (cav.)</h1><h4 class='i'>Czwartek, 14 sierpnia 2025</h4><h4>Wyniki z 16 ośrodków</h4>	</div>
+		<div class="c sm">Kliknij na numer pary, żeby obejrzeć historię.</div>
+	<div class="c"><a href="/39582/prot/1/" class="sm">Kliknij tutaj, żeby przejść do protokołów.</a></div>
+	<div class="c sm"><a href="/39582/pbn/" class="sm">Kliknij tutaj, żeby pobrać plik z rozkładami.</a><div>	<div class="c sm">Kliknij na kod ośrodka, żeby zobaczyć pary tylko z tego ośrodka.</div>
+	<table>
+		<tr><th>m-ce</th><th>nr</th><th>nazwiska</th><th>wk</th><th>okręg</th><th>ośrodek</th><th>+/-</th><th>IMP</th>
+						<th>pkl</th>					</tr>
+		<tr><td>1</td><td><a href='/39582/hist/144/'>144</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=4079' target='_blank'>Sławomir Juchnicki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=12884' target='_blank'>Anna Tompolska</a></td>
+					<td>5.0<br />4.0</td><td>PD</td><td><a href='/39582/pot-PD/369/'>PD/369</a></td><td></td><td>91.47</td><td>26</td></tr>
+<tr><td>2</td><td><a href='/39582/hist/230/'>230</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6040' target='_blank'>Grzegorz Niewiarowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=8816' target='_blank'>Andrzej Duda</a></td>
+					<td>5.0<br />2.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>84.54</td><td>26</td></tr>
+<tr><td>3</td><td><a href='/39582/hist/93/'>93</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=14586' target='_blank'>Magdalena Chmielewska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21847' target='_blank'>Antonina Chmielewska</a></td>
+					<td>3.0<br />2.5</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>74.88</td><td>25</td></tr>
+<tr><td>4</td><td><a href='/39582/hist/103/'>103</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23339' target='_blank'>Gabriela Banaś</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22864' target='_blank'>Zuzanna Pniok</a></td>
+					<td>2.0<br />1.0</td><td>SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>72.37</td><td>25</td></tr>
+<tr><td>5</td><td><a href='/39582/hist/217/'>217</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5918' target='_blank'>Tomasz Derba</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6144' target='_blank'>Czesław Wojtaś</a></td>
+					<td>11.0<br />7.0</td><td>ZP</td><td><a href='/39582/pot-ZP/308/'>ZP/308</a></td><td></td><td>67.15</td><td>24</td></tr>
+<tr><td>6</td><td><a href='/39582/hist/34/'>34</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=14517' target='_blank'>Maciej Wawrzyniak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=3802' target='_blank'>Mariusz Kuś</a></td>
+					<td>3.0<br />3.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>64.95</td><td>24</td></tr>
+<tr><td>7</td><td><a href='/39582/hist/162/'>162</a></td><td class='l'>Dorota Szmajda<br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=11920' target='_blank'>Paweł Duniecki</a></td>
+					<td>0.0<br />0.5</td><td><br />MA</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>59.23</td><td>23</td></tr>
+<tr><td>8</td><td><a href='/39582/hist/168/'>168</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=3172' target='_blank'>Zbigniew Górski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=3107' target='_blank'>Jacek Czaja</a></td>
+					<td>5.0<br />5.0</td><td>SL</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>55.03</td><td>23</td></tr>
+<tr><td>9</td><td><a href='/39582/hist/169/'>169</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=15345' target='_blank'>Sławomir Brodziński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=3618' target='_blank'>Eugeniusz Zalewski</a></td>
+					<td>3.0<br />9.0</td><td>SL</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>53.26</td><td>22</td></tr>
+<tr><td>10</td><td><a href='/39582/hist/69/'>69</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=13328' target='_blank'>Andrzej Sokołowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=10674' target='_blank'>Grzegorz Górecki</a></td>
+					<td>3.0<br />5.0</td><td>MA</td><td><a href='/39582/pot-MA/46/'>MA/46</a></td><td>4.80</td><td>50.47</td><td>22</td></tr>
+<tr><td>11</td><td><a href='/39582/hist/49/'>49</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=2398' target='_blank'>Sławomir Rutecki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=18993' target='_blank'>Franciszek Bułyszko</a></td>
+					<td>7.0<br />5.0</td><td>LB</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>49.09</td><td>22</td></tr>
+<tr><td>12</td><td><a href='/39582/hist/196/'>196</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=10541' target='_blank'>Piotr Dzieciątkowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4375' target='_blank'>Paweł Musiał</a></td>
+					<td>2.0<br />3.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>48.29</td><td>21</td></tr>
+<tr><td>13</td><td><a href='/39582/hist/108/'>108</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21209' target='_blank'>Antoni Kierepka</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19759' target='_blank'>Hubert Stachura</a></td>
+					<td>2.0<br />1.5</td><td>SL<br />DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>45.74</td><td>21</td></tr>
+<tr><td>14</td><td><a href='/39582/hist/23/'>23</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1705' target='_blank'>Małgorzata Turska-Marcinowska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1683' target='_blank'>Marian Szymonowicz</a></td>
+					<td>9.0<br />12.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>44.81</td><td>20</td></tr>
+<tr><td>15</td><td><a href='/39582/hist/101/'>101</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22988' target='_blank'>Paweł Gliński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=3206' target='_blank'>Maciej Janeczko</a></td>
+					<td>1.5<br />11.0</td><td>SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>44.42</td><td>20</td></tr>
+<tr><td>16</td><td><a href='/39582/hist/127/'>127</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23938' target='_blank'>Egor Goraievski-Buryka</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=14124' target='_blank'>Katarzyna Rębisz</a></td>
+					<td>0.0<br />1.5</td><td>DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>44.06</td><td>19</td></tr>
+<tr><td>17</td><td><a href='/39582/hist/165/'>165</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5662' target='_blank'>Tadeusz Kołat</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=7264' target='_blank'>Wiesław Dymek</a></td>
+					<td>3.0<br />3.0</td><td>LD<br />MP</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>43.40</td><td>19</td></tr>
+<tr><td>18</td><td><a href='/39582/hist/78/'>78</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6194' target='_blank'>Radosław Jaszczak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6165' target='_blank'>Dariusz Biedrzycki</a></td>
+					<td>1.5<br />7.0</td><td>MA</td><td><a href='/39582/pot-MA/503/'>MA/503</a></td><td></td><td>43.19</td><td>18</td></tr>
+<tr><td>19</td><td><a href='/39582/hist/190/'>190</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16221' target='_blank'>Piotr Długi</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=17984' target='_blank'>Krzysztof Galubiński</a></td>
+					<td>3.0<br />5.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>43.04</td><td>18</td></tr>
+<tr><td>20</td><td><a href='/39582/hist/220/'>220</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20003' target='_blank'>Katarzyna Cantwell</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=8356' target='_blank'>Jan Purczyński</a></td>
+					<td>2.5<br />7.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>42.55</td><td>18</td></tr>
+<tr><td>21</td><td><a href='/39582/hist/85/'>85</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16371' target='_blank'>Maciej Osmolak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=18082' target='_blank'>Radosław Liszewski</a></td>
+					<td>2.5<br />2.0</td><td>MA</td><td><a href='/39582/pot-MA/86/'>MA/86</a></td><td></td><td>42.53</td><td>17</td></tr>
+<tr><td>22</td><td><a href='/39582/hist/134/'>134</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24813' target='_blank'>Antoni Gierszewski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=25012' target='_blank'>Zofia Diakun</a></td>
+					<td>0.0<br />0.0</td><td>PM</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>42.03</td><td>17</td></tr>
+<tr><td>23</td><td><a href='/39582/hist/96/'>96</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22811' target='_blank'>Paulina Pietrzko</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=2712' target='_blank'>Marcin Kuflowski</a></td>
+					<td>1.5<br />5.0</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>41.55</td><td>16</td></tr>
+<tr><td>24</td><td><a href='/39582/hist/192/'>192</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23717' target='_blank'>Waldemar Majtas</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24399' target='_blank'>Piotr Szczepański</a></td>
+					<td>1.5<br />1.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>40.25</td><td>16</td></tr>
+<tr><td>25</td><td><a href='/39582/hist/44/'>44</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=2310' target='_blank'>Zdzisław Kulesza</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=2390' target='_blank'>Zygmunt Radek</a></td>
+					<td>9.0<br />7.0</td><td>LB</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>40.18</td><td>15</td></tr>
+<tr><td>26</td><td><a href='/39582/hist/183/'>183</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25285' target='_blank'>Marian Winowiecki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20989' target='_blank'>Marcin Nowicki</a></td>
+					<td>0.0<br />0.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>39.67</td><td>15</td></tr>
+<tr><td>27</td><td><a href='/39582/hist/155/'>155</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=14286' target='_blank'>Błażej Krawczyk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23595' target='_blank'>Maciej Kopczyński</a></td>
+					<td>9.0<br />1.5</td><td>LU<br />MP</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>39.26</td><td>14</td></tr>
+<tr><td>28</td><td><a href='/39582/hist/19/'>19</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=9595' target='_blank'>Jan Marcinkowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1632' target='_blank'>Aleksander Skorupa</a></td>
+					<td>5.0<br />5.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>39.19</td><td>14</td></tr>
+<tr><td>29</td><td><a href='/39582/hist/16/'>16</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1311' target='_blank'>Jerzy Gładysz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=13828' target='_blank'>Kamila Kukuła</a></td>
+					<td>12.0<br />7.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>37.40</td><td>14</td></tr>
+<tr><td>30</td><td><a href='/39582/hist/46/'>46</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=2447' target='_blank'>Tadeusz Wolniczak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5123' target='_blank'>Tomasz Konopka</a></td>
+					<td>5.0<br />5.0</td><td>LB</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>36.66</td><td>13</td></tr>
+<tr><td>31</td><td><a href='/39582/hist/95/'>95</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20507' target='_blank'>Marek Księżopolski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22515' target='_blank'>Szymon Nowak</a></td>
+					<td>1.5<br />1.5</td><td>SL<br />WP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>36.58</td><td>13</td></tr>
+<tr><td>32</td><td><a href='/39582/hist/9/'>9</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1604' target='_blank'>Jerzy Romańczyk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21390' target='_blank'>Tomasz Romańczyk</a></td>
+					<td>5.0<br />2.5</td><td>DS</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>36.29</td><td>12</td></tr>
+<tr><td>33</td><td><a href='/39582/hist/20/'>20</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=10493' target='_blank'>Janusz Pękala</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1288' target='_blank'>Janusz Drozdowski</a></td>
+					<td>5.0<br />12.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>36.03</td><td>12</td></tr>
+<tr><td>34</td><td><a href='/39582/hist/58/'>58</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21054' target='_blank'>Magdalena Reguła</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20240' target='_blank'>Bernard Kula</a></td>
+					<td>2.5<br />4.0</td><td>LD<br />MA</td><td><a href='/39582/pot-LD/460/'>LD/460</a></td><td></td><td>35.77</td><td>11</td></tr>
+<tr><td>35</td><td><a href='/39582/hist/179/'>179</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=7572' target='_blank'>Ireneusz Jagielski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4261' target='_blank'>Lech Grabski</a></td>
+					<td>9.0<br />7.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>32.42</td><td>11</td></tr>
+<tr><td>36</td><td><a href='/39582/hist/228/'>228</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6099' target='_blank'>Wacław Stefluk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19398' target='_blank'>Ewa Hryć</a></td>
+					<td>4.0<br />2.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>32.25</td><td>11</td></tr>
+<tr><td>37</td><td><a href='/39582/hist/110/'>110</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=3339' target='_blank'>Jerzy Matura</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23020' target='_blank'>Adam Jagiełło</a></td>
+					<td>3.0<br />0.5</td><td>SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>31.70</td><td>10</td></tr>
+<tr><td>38</td><td><a href='/39582/hist/159/'>159</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=17250' target='_blank'>Grzegorz Olejnik</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=17249' target='_blank'>Elżbieta Olejnik</a></td>
+					<td>3.0<br />3.0</td><td>KP</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>31.58</td><td>10</td></tr>
+<tr><td>39</td><td><a href='/39582/hist/208/'>208</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23162' target='_blank'>Małgorzata Borowiak-Koppe</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23452' target='_blank'>Aleksandra Królikiewicz</a></td>
+					<td>1.5<br />1.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>30.13</td><td>9</td></tr>
+<tr><td>40</td><td><a href='/39582/hist/68/'>68</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5785' target='_blank'>Krzysztof Robaszek</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=11428' target='_blank'>Paweł Zubiel</a></td>
+					<td>7.0<br />9.0</td><td>LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>28.75</td><td>9</td></tr>
+<tr><td>41</td><td><a href='/39582/hist/188/'>188</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18220' target='_blank'>Janusz Zabacki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15044' target='_blank'>Piotr Surdyk</a></td>
+					<td>4.0<br />5.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>28.65</td><td>8</td></tr>
+<tr><td>42</td><td><a href='/39582/hist/7/'>7</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16795' target='_blank'>Marcin Rój</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1161' target='_blank'>Józef Rząsa</a></td>
+					<td>3.0<br />4.0</td><td>DS</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>28.38</td><td>8</td></tr>
+<tr><td>43</td><td><a href='/39582/hist/136/'>136</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23712' target='_blank'>Stefan Niewiadomski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24582' target='_blank'>Franciszek Kaps</a></td>
+					<td>0.5<br />0.0</td><td>DS<br />SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>27.89</td><td>7</td></tr>
+<tr><td>44</td><td><a href='/39582/hist/75/'>75</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=3790' target='_blank'>Andrzej Kretkowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=16886' target='_blank'>Dariusz Piotrkiewicz</a></td>
+					<td>4.0<br />3.0</td><td>KP</td><td><a href='/39582/pot-MA/46/'>MA/46</a></td><td>4.80</td><td>27.06</td><td>7</td></tr>
+<tr><td>45</td><td><a href='/39582/hist/178/'>178</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=4306' target='_blank'>Ryszard Kłusowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4430' target='_blank'>Jan Rogowski</a></td>
+					<td>7.0<br />18.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>27.03</td><td>7</td></tr>
+<tr><td>46</td><td><a href='/39582/hist/126/'>126</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22810' target='_blank'>Magdalena Pietrzko</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24692' target='_blank'>Krzysztof Janik</a></td>
+					<td>1.5<br />0.5</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>26.63</td><td>6</td></tr>
+<tr><td>47</td><td><a href='/39582/hist/118/'>118</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24738' target='_blank'>Laura Kaleńska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24207' target='_blank'>Mateusz Więckowski</a></td>
+					<td>0.0<br />1.0</td><td>MP<br />SW</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>25.87</td><td>6</td></tr>
+<tr><td>48</td><td><a href='/39582/hist/33/'>33</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=17294' target='_blank'>Marek Bałabuch</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23124' target='_blank'>Roman Mierzbiczak</a></td>
+					<td>5.0<br />1.5</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>24.96</td><td>6</td></tr>
+<tr><td>49</td><td><a href='/39582/hist/205/'>205</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5421' target='_blank'>Jerzy Stefanowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=7701' target='_blank'>Leszek Patuła</a></td>
+					<td>5.0<br />3.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>24.30</td><td>6</td></tr>
+<tr><td>50</td><td><a href='/39582/hist/119/'>119</a></td><td class='l'>Emilia Azarewicz<br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=25013' target='_blank'>Urszula Kowalkowska</a></td>
+					<td>0.0<br />0.0</td><td><br />PM</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>22.86</td><td>5</td></tr>
+<tr><td>51</td><td><a href='/39582/hist/170/'>170</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23081' target='_blank'>Urszula Kozak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23076' target='_blank'>Natalia Marczykiewicz</a></td>
+					<td>1.5<br />1.5</td><td>MA</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>22.83</td><td>5</td></tr>
+<tr><td>52</td><td><a href='/39582/hist/90/'>90</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24609' target='_blank'>Natan Michor</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21156' target='_blank'>Kajetan Kęska</a></td>
+					<td>0.5<br />1.0</td><td>WP<br />DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>22.44</td><td>5</td></tr>
+<tr><td>53</td><td><a href='/39582/hist/37/'>37</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=13380' target='_blank'>Andrzej Kolański</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=13003' target='_blank'>Mariusz Bielski</a></td>
+					<td>1.5<br />7.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>22.13</td><td>5</td></tr>
+<tr><td>54</td><td><a href='/39582/hist/43/'>43</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=2320' target='_blank'>Tadeusz Lisiecki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=2445' target='_blank'>Zbigniew Wojdak</a></td>
+					<td>3.0<br />4.0</td><td>LB</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>21.46</td><td>5</td></tr>
+<tr><td>55</td><td><a href='/39582/hist/91/'>91</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23749' target='_blank'>Danuta Serafinowicz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15062' target='_blank'>Sviatlana Aleinikova</a></td>
+					<td>0.0<br />2.0</td><td>DS<br />SW</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>20.85</td><td>5</td></tr>
+<tr><td>56</td><td><a href='/39582/hist/156/'>156</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19680' target='_blank'>Marek Farecki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=17396' target='_blank'>Andrzej Wieczorek</a></td>
+					<td>1.5<br />2.0</td><td>MA<br />LD</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>19.69</td><td>5</td></tr>
+<tr><td>57</td><td><a href='/39582/hist/112/'>112</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20418' target='_blank'>Oliwer Rubach</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21210' target='_blank'>Franciszek Kierepka</a></td>
+					<td>1.5<br />2.5</td><td>SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>19.55</td><td>5</td></tr>
+<tr><td>58</td><td><a href='/39582/hist/4/'>4</a></td><td class='l'>Lucjan Głowacki<br />Lech Kurowski</td>
+					<td>0.0<br />0.0</td><td></td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>19.31</td><td>5</td></tr>
+<tr><td>59</td><td><a href='/39582/hist/98/'>98</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22045' target='_blank'>Hanna Jaworska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=17539' target='_blank'>Kacper Kuflowski</a></td>
+					<td>2.0<br />7.0</td><td>DS<br />MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>17.99</td><td>5</td></tr>
+<tr><td>60</td><td><a href='/39582/hist/172/'>172</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=4179' target='_blank'>Paweł Abramski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4429' target='_blank'>Patrycjusz Reszczyński</a></td>
+					<td>5.0<br />5.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>17.56</td><td>5</td></tr>
+<tr><td>61</td><td><a href='/39582/hist/82/'>82</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16439' target='_blank'>Jerzy Plichtowicz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=11899' target='_blank'>Dominik Głowacki</a></td>
+					<td>4.0<br />7.0</td><td>MA</td><td><a href='/39582/pot-MA/503/'>MA/503</a></td><td></td><td>16.79</td><td>5</td></tr>
+<tr><td>62</td><td><a href='/39582/hist/61/'>61</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=7079' target='_blank'>Zbigniew Frank</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=7117' target='_blank'>Sławomir Sroczyński</a></td>
+					<td>5.0<br />5.0</td><td>LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>16.74</td><td>5</td></tr>
+<tr><td>63</td><td><a href='/39582/hist/62/'>62</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20131' target='_blank'>Marian Wojtasiński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5635' target='_blank'>Bogusław Jakóbczyk</a></td>
+					<td>3.0<br />5.0</td><td>LD<br />PM</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>16.40</td><td>4</td></tr>
+<tr><td>64</td><td><a href='/39582/hist/198/'>198</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=10415' target='_blank'>Wojciech Mysior</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20250' target='_blank'>Piotr Słomski</a></td>
+					<td>1.5<br />2.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>16.37</td><td>4</td></tr>
+<tr><td>65</td><td><a href='/39582/hist/87/'>87</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16623' target='_blank'>Wojciech Ligman</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20170' target='_blank'>Adam Stachura</a></td>
+					<td>2.5<br />3.0</td><td>PM<br />MA</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>16.30</td><td>4</td></tr>
+<tr><td>66</td><td><a href='/39582/hist/164/'>164</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1458' target='_blank'>Wojciech Lubas</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=17392' target='_blank'>Urszula Nadybska-Stefaniak</a></td>
+					<td>5.0<br />3.0</td><td>DS<br />SW</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>15.71</td><td>4</td></tr>
+<tr><td>67</td><td><a href='/39582/hist/47/'>47</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22186' target='_blank'>Mirosław Janusz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=11493' target='_blank'>Arkadiusz Skonieczny</a></td>
+					<td>0.0<br />5.0</td><td>LB</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>15.70</td><td>4</td></tr>
+<tr><td>68</td><td><a href='/39582/hist/38/'>38</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18253' target='_blank'>Bogumił Drews</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=12278' target='_blank'>Michał Dolny</a></td>
+					<td>1.5<br />4.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>15.56</td><td>4</td></tr>
+<tr><td>69</td><td><a href='/39582/hist/29/'>29</a></td><td class='l'>Ryszard Eis<br />Ryszard Szczepocki</td>
+					<td>0.0<br />0.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>15.19</td><td>4</td></tr>
+<tr><td>70</td><td><a href='/39582/hist/111/'>111</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18973' target='_blank'>Kryspin Jankowiak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19280' target='_blank'>Kryspin Donder</a></td>
+					<td>1.5<br />1.5</td><td>DS<br />SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>13.99</td><td>4</td></tr>
+<tr><td>71</td><td><a href='/39582/hist/117/'>117</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23939' target='_blank'>Aleksander Murawski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24531' target='_blank'>Lena Kamińska</a></td>
+					<td>0.0<br />0.0</td><td>DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>13.51</td><td>4</td></tr>
+<tr><td>72</td><td><a href='/39582/hist/63/'>63</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=9542' target='_blank'>Waldemar Górski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5652' target='_blank'>Cezary Kanar</a></td>
+					<td>5.0<br />5.0</td><td>LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>13.29</td><td>4</td></tr>
+<tr><td>73</td><td><a href='/39582/hist/226/'>226</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=8346' target='_blank'>Piotr Węgrzyn</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6000' target='_blank'>Romuald Leoniewski</a></td>
+					<td>4.0<br />5.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>13.11</td><td>4</td></tr>
+<tr><td>74</td><td><a href='/39582/hist/121/'>121</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24969' target='_blank'>Grzegorz Kasperek</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=25223' target='_blank'>Iga Laskiewicz</a></td>
+					<td>0.0<br />0.0</td><td>SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>12.49</td><td>4</td></tr>
+<tr><td>75</td><td><a href='/39582/hist/128/'>128</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22294' target='_blank'>Filip Becher</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23625' target='_blank'>Kajetan Dąbrowski</a></td>
+					<td>0.5<br />0.5</td><td>DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>12.01</td><td>4</td></tr>
+<tr><td>76</td><td><a href='/39582/hist/57/'>57</a></td><td class='l'>Małgorzata Kula<br />Paweł Kula</td>
+					<td>0.0<br />0.0</td><td></td><td><a href='/39582/pot-LD/460/'>LD/460</a></td><td></td><td>11.78</td><td>4</td></tr>
+<tr><td>77</td><td><a href='/39582/hist/6/'>6</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=12870' target='_blank'>Maks Brandt</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1770' target='_blank'>Aleksander Zdybel</a></td>
+					<td>2.0<br />9.0</td><td>DS<br />LB</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>11.55</td><td>3</td></tr>
+<tr><td>78</td><td><a href='/39582/hist/216/'>216</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6018' target='_blank'>Bogusław Maryńczak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6105' target='_blank'>Lech Sulżycki</a></td>
+					<td>5.0<br />7.0</td><td>ZP</td><td><a href='/39582/pot-ZP/308/'>ZP/308</a></td><td></td><td>11.54</td><td>3</td></tr>
+<tr><td>79</td><td><a href='/39582/hist/100/'>100</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22808' target='_blank'>Hanna Omielska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=2580' target='_blank'>Agata Kowal</a></td>
+					<td>1.5<br />7.0</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>11.44</td><td>3</td></tr>
+<tr><td>80</td><td><a href='/39582/hist/197/'>197</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19201' target='_blank'>Grzegorz Nowak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=13625' target='_blank'>Krystian Ostrowski</a></td>
+					<td>2.0<br />2.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>11.30</td><td>3</td></tr>
+<tr><td>81</td><td><a href='/39582/hist/203/'>203</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=17983' target='_blank'>John Catlow</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19644' target='_blank'>Katarzyna Żabicka-Bajon</a></td>
+					<td>5.0<br />4.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>11.09</td><td>3</td></tr>
+<tr><td>82</td><td><a href='/39582/hist/212/'>212</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20223' target='_blank'>Piotr Cieśliński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20222' target='_blank'>Małgorzata Cieślińska</a></td>
+					<td>3.0<br />3.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>11.08</td><td>3</td></tr>
+<tr><td>83</td><td><a href='/39582/hist/130/'>130</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22244' target='_blank'>Franciszek Trojak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23879' target='_blank'>Hubert Mrowiec</a></td>
+					<td>1.5<br />1.0</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>11.01</td><td>3</td></tr>
+<tr><td>84</td><td><a href='/39582/hist/225/'>225</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20120' target='_blank'>Artur Buciak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21219' target='_blank'>Michał Krok</a></td>
+					<td>2.5<br />2.5</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>10.02</td><td>3</td></tr>
+<tr><td>85</td><td><a href='/39582/hist/104/'>104</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24472' target='_blank'>Martyna Pucyk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23340' target='_blank'>Hanna Banaś</a></td>
+					<td>1.0<br />1.0</td><td>SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>9.26</td><td>3</td></tr>
+<tr><td>86</td><td><a href='/39582/hist/2/'>2</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21060' target='_blank'>Katarzyna Stachowiak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19439' target='_blank'>Andrzej Stachowiak</a></td>
+					<td>4.0<br />3.0</td><td>WP</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>9.18</td><td>3</td></tr>
+<tr><td>87</td><td><a href='/39582/hist/236/'>236</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23310' target='_blank'>Barbara Krawczyk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23311' target='_blank'>Krzysztof Krawczyk</a></td>
+					<td>1.5<br />1.5</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td></td><td>8.30</td><td>3</td></tr>
+<tr><td>88</td><td><a href='/39582/hist/143/'>143</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=17221' target='_blank'>Halina Perkowska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4063' target='_blank'>Andrzej Prasalski</a></td>
+					<td>2.5<br />7.0</td><td>PD</td><td><a href='/39582/pot-PD/369/'>PD/369</a></td><td></td><td>8.29</td><td>3</td></tr>
+<tr><td>89</td><td><a href='/39582/hist/163/'>163</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18068' target='_blank'>Teresa Lubas</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23278' target='_blank'>Stanisław Żabicki</a></td>
+					<td>2.5<br />1.5</td><td>DS<br />SW</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>8.19</td><td>3</td></tr>
+<tr><td>90</td><td><a href='/39582/hist/214/'>214</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23429' target='_blank'>Maciej Silski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20118' target='_blank'>Bogdan Wiliński</a></td>
+					<td>2.0<br />2.5</td><td>ZP</td><td><a href='/39582/pot-ZP/308/'>ZP/308</a></td><td></td><td>8.03</td><td>2</td></tr>
+<tr><td>91</td><td><a href='/39582/hist/35/'>35</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23676' target='_blank'>Jerzy Gapiński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15722' target='_blank'>Karol Nowak</a></td>
+					<td>2.0<br />4.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>7.71</td><td>2</td></tr>
+<tr><td>92</td><td><a href='/39582/hist/13/'>13</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21731' target='_blank'>Marek Brosch</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1381' target='_blank'>Piotr Klubiński</a></td>
+					<td>4.0<br />11.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>7.60</td><td>2</td></tr>
+<tr><td>93</td><td><a href='/39582/hist/24/'>24</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1608' target='_blank'>Marek Rużyło</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=10479' target='_blank'>Krzysztof Obłój</a></td>
+					<td>7.0<br />7.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>7.49</td><td>2</td></tr>
+<tr><td>94</td><td><a href='/39582/hist/48/'>48</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=8602' target='_blank'>Piotr Rewak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=2213' target='_blank'>Tadeusz Birecki</a></td>
+					<td>3.0<br />5.0</td><td>LB</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>7.28</td><td>2</td></tr>
+<tr><td>95</td><td><a href='/39582/hist/12/'>12</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1260' target='_blank'>Maciej Chojnacki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1495' target='_blank'>Ryszard Menzfeld</a></td>
+					<td>5.0<br />5.0</td><td>DS</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td></td><td>6.99</td><td>2</td></tr>
+<tr><td>96</td><td><a href='/39582/hist/185/'>185</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=17686' target='_blank'>Wiesław Rakowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=17508' target='_blank'>Maciej Masłowski</a></td>
+					<td>2.5<br />3.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>6.30</td><td>2</td></tr>
+<tr><td>97</td><td><a href='/39582/hist/199/'>199</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18502' target='_blank'>Małgorzata Węglewska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20349' target='_blank'>Izabela Górnicka</a></td>
+					<td>4.0<br />2.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>6.26</td><td>2</td></tr>
+<tr><td>98</td><td><a href='/39582/hist/187/'>187</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16729' target='_blank'>Barbara Podgórska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5286' target='_blank'>Ryszard Nowicki</a></td>
+					<td>5.0<br />5.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>6.09</td><td>2</td></tr>
+<tr><td>99</td><td><a href='/39582/hist/84/'>84</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16373' target='_blank'>Krzysztof Pietruszka</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15514' target='_blank'>Przemysław Nitek</a></td>
+					<td>4.0<br />2.5</td><td>LD<br />MA</td><td><a href='/39582/pot-MA/86/'>MA/86</a></td><td></td><td>6.01</td><td>2</td></tr>
+<tr><td>100</td><td><a href='/39582/hist/125/'>125</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22809' target='_blank'>Zuzanna Omielska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22986' target='_blank'>Tomasz Owsianka</a></td>
+					<td>1.5<br />1.0</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>5.50</td><td>2</td></tr>
+<tr><td>101</td><td><a href='/39582/hist/167/'>167</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18901' target='_blank'>Grzegorz Kujawiński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=2862' target='_blank'>Krzysztof Ziewacz</a></td>
+					<td>4.0<br />5.0</td><td>PM<br />MA</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>5.25</td><td>2</td></tr>
+<tr><td>102</td><td><a href='/39582/hist/113/'>113</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22246' target='_blank'>Bohdan Shulha</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22805' target='_blank'>Jakub Frańczak</a></td>
+					<td>1.5<br />1.5</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>4.28</td><td>2</td></tr>
+<tr><td>103</td><td><a href='/39582/hist/132/'>132</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22905' target='_blank'>Antonina Pituch</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22247' target='_blank'>Makar Shulha</a></td>
+					<td>0.5<br />1.5</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>4.04</td><td>1</td></tr>
+<tr><td>104</td><td><a href='/39582/hist/181/'>181</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19244' target='_blank'>Małgorzata Wachowska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19245' target='_blank'>Krzysztof Klimczak</a></td>
+					<td>4.0<br />4.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>3.54</td><td>1</td></tr>
+<tr><td>105</td><td><a href='/39582/hist/176/'>176</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=4315' target='_blank'>Jakub Kowalczyk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=8124' target='_blank'>Wojciech Kujda</a></td>
+					<td>5.0<br />3.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>2.75</td><td>1</td></tr>
+<tr><td>106</td><td><a href='/39582/hist/195/'>195</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24151' target='_blank'>Przemysław Pokrywka</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24176' target='_blank'>Elżbieta Nowaczyk</a></td>
+					<td>1.5<br />1.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>2.68</td><td>1</td></tr>
+<tr><td>107</td><td><a href='/39582/hist/219/'>219</a></td><td class='l'>Jolanta Weszka<br />Maria Klorek</td>
+					<td>0.0<br />0.0</td><td></td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>3.60</td><td>2.11</td><td>1</td></tr>
+<tr><td>108</td><td><a href='/39582/hist/201/'>201</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18667' target='_blank'>Roman Wojciechowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5244' target='_blank'>Bogna Latowska</a></td>
+					<td>2.5<br />3.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>1.59</td><td>1</td></tr>
+<tr><td>109</td><td><a href='/39582/hist/147/'>147</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=4124' target='_blank'>Roman Kruk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=16317' target='_blank'>Marian Krasowski</a></td>
+					<td>9.0<br />9.0</td><td>PD</td><td><a href='/39582/pot-PD/369/'>PD/369</a></td><td></td><td>1.26</td><td>1</td></tr>
+<tr><td>110</td><td><a href='/39582/hist/64/'>64</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6802' target='_blank'>Tomasz Modrzejewski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=17693' target='_blank'>Tadeusz Kempko</a></td>
+					<td>15.0<br />2.5</td><td>LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>1.06</td><td>1</td></tr>
+<tr><td>111</td><td><a href='/39582/hist/80/'>80</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19765' target='_blank'>Edward Gilert</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6248' target='_blank'>Hilary Ślesicki</a></td>
+					<td>2.0<br />4.0</td><td>MA</td><td><a href='/39582/pot-MA/503/'>MA/503</a></td><td></td><td>0.97</td><td>1</td></tr>
+<tr><td>112</td><td><a href='/39582/hist/14/'>14</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25109' target='_blank'>Ewa Lubryka</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=13065' target='_blank'>Anna Jankowska</a></td>
+					<td>0.0<br />5.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>0.78</td><td>1</td></tr>
+<tr><td>113</td><td><a href='/39582/hist/139/'>139</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24759' target='_blank'>Olaf Jaffke</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=25023' target='_blank'>Miłosz Janiak</a></td>
+					<td>0.0<br />0.0</td><td>PM</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>0.72</td><td>1</td></tr>
+<tr><td>114</td><td><a href='/39582/hist/204/'>204</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20225' target='_blank'>Maciej Cieślukowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5355' target='_blank'>Robert Romanowski</a></td>
+					<td>2.5<br />2.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>0.55</td><td>1</td></tr>
+<tr><td>115</td><td><a href='/39582/hist/222/'>222</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24511' target='_blank'>Anna Pruszyńska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6042' target='_blank'>Zbigniew Nowak</a></td>
+					<td>1.0<br />5.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>0.34</td><td>1</td></tr>
+<tr><td>116</td><td><a href='/39582/hist/138/'>138</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24688' target='_blank'>Karolina Knap</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23945' target='_blank'>Piotr Krakowski</a></td>
+					<td>0.0<br />0.0</td><td>SW</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>0.30</td><td></td></tr>
+<tr><td>117</td><td><a href='/39582/hist/56/'>56</a></td><td class='l'>Bogdan Górniak<br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=12850' target='_blank'>Kazimierz Górniak</a></td>
+					<td>0.0<br />1.5</td><td><br />LD</td><td><a href='/39582/pot-LD/460/'>LD/460</a></td><td></td><td>-0.09</td><td></td></tr>
+<tr><td>118</td><td><a href='/39582/hist/74/'>74</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16477' target='_blank'>Sławomir Malanowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6253' target='_blank'>Tadeusz Wiśniewski</a></td>
+					<td>3.0<br />4.0</td><td>MA</td><td><a href='/39582/pot-MA/46/'>MA/46</a></td><td>4.80</td><td>-0.40</td><td></td></tr>
+<tr><td>119</td><td><a href='/39582/hist/152/'>152</a></td><td class='l'>Stanisław Orzłowski<br />Ewa Melerska</td>
+					<td>0.0<br />0.0</td><td></td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-0.64</td><td></td></tr>
+<tr><td>120</td><td><a href='/39582/hist/221/'>221</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=2103' target='_blank'>Zdzisław Pleskot</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21487' target='_blank'>Ewa Krok</a></td>
+					<td>11.0<br />2.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>-0.93</td><td></td></tr>
+<tr><td>121</td><td><a href='/39582/hist/53/'>53</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23821' target='_blank'>Maciej Zbrzezny</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5592' target='_blank'>Dariusz Cygan</a></td>
+					<td>1.5<br />5.0</td><td>LD</td><td><a href='/39582/pot-LD/460/'>LD/460</a></td><td></td><td>-1.34</td><td></td></tr>
+<tr><td>122</td><td><a href='/39582/hist/8/'>8</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19753' target='_blank'>Ireneusz Kwiatosz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22151' target='_blank'>Tadeusz Szczęśniewicz</a></td>
+					<td>2.5<br />2.0</td><td>DS</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>-1.39</td><td></td></tr>
+<tr><td>123</td><td><a href='/39582/hist/223/'>223</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=15733' target='_blank'>Maria Domagałło</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6048' target='_blank'>Roman Olszewski</a></td>
+					<td>2.0<br />3.0</td><td>PM<br />ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>-2.23</td><td></td></tr>
+<tr><td>124</td><td><a href='/39582/hist/3/'>3</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=14051' target='_blank'>Joanna Brandt</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=13911' target='_blank'>Zbigniew Skórecki</a></td>
+					<td>2.5<br />5.0</td><td>DS</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>-2.85</td><td></td></tr>
+<tr><td>125</td><td><a href='/39582/hist/231/'>231</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=12269' target='_blank'>Tomasz Jakóbczak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=8343' target='_blank'>Andrzej Gil</a></td>
+					<td>5.0<br />5.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>-2.91</td><td></td></tr>
+<tr><td>126</td><td><a href='/39582/hist/232/'>232</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=8819' target='_blank'>Marek Goraj</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=16823' target='_blank'>Jan Włoszek</a></td>
+					<td>4.0<br />2.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>-3.78</td><td></td></tr>
+<tr><td>127</td><td><a href='/39582/hist/5/'>5</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=13583' target='_blank'>Jerzy Hawryliszyn</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=18473' target='_blank'>Małgorzata Hawryliszyn</a></td>
+					<td>3.0<br />3.0</td><td>DS</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>-3.86</td><td></td></tr>
+<tr><td>128</td><td><a href='/39582/hist/186/'>186</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23988' target='_blank'>Magdalena Janaszek</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23885' target='_blank'>Jerzy Struszyński</a></td>
+					<td>1.0<br />1.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-4.21</td><td></td></tr>
+<tr><td>129</td><td><a href='/39582/hist/140/'>140</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=13187' target='_blank'>Lech Rębisz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23940' target='_blank'>Sergiusz Jakubiec</a></td>
+					<td>2.0<br />0.0</td><td>DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-4.22</td><td></td></tr>
+<tr><td>130</td><td><a href='/39582/hist/180/'>180</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=4647' target='_blank'>Krystyna Mackiewicz</a><br />Małgorzata Cybulska</td>
+					<td>1.5<br />0.0</td><td>WM<br /></td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>-4.78</td><td></td></tr>
+<tr><td>131</td><td><a href='/39582/hist/60/'>60</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=9534' target='_blank'>Ryszard Chruścicki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=18684' target='_blank'>Grzegorz Wasiak</a></td>
+					<td>3.0<br />3.0</td><td>LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>-5.37</td><td></td></tr>
+<tr><td>132</td><td><a href='/39582/hist/173/'>173</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=9037' target='_blank'>Mirosław Roesler</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1616' target='_blank'>Roman Walaszkowski</a></td>
+					<td>11.0<br />2.5</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>-5.42</td><td></td></tr>
+<tr><td>133</td><td><a href='/39582/hist/36/'>36</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=11853' target='_blank'>Jerzy Wawrzyniak</a><br />Krystyna Wawrzyniak</td>
+					<td>4.0<br />0.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>-5.49</td><td></td></tr>
+<tr><td>134</td><td><a href='/39582/hist/120/'>120</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23751' target='_blank'>Kacper Franczak</a><br />Tomasz Dudek</td>
+					<td>0.0<br />0.0</td><td>MP<br /></td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-5.57</td><td></td></tr>
+<tr><td>135</td><td><a href='/39582/hist/73/'>73</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=15863' target='_blank'>Zdzisław Marcinkowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=16885' target='_blank'>Dariusz Jagodziński</a></td>
+					<td>1.5<br />2.5</td><td>MA</td><td><a href='/39582/pot-MA/46/'>MA/46</a></td><td>4.80</td><td>-5.87</td><td></td></tr>
+<tr><td>136</td><td><a href='/39582/hist/148/'>148</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=14252' target='_blank'>Stefan Kopyt</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4158' target='_blank'>Wiesław Pietraszewski</a></td>
+					<td>5.0<br />9.0</td><td>PD</td><td><a href='/39582/pot-PD/369/'>PD/369</a></td><td></td><td>-6.67</td><td></td></tr>
+<tr><td>137</td><td><a href='/39582/hist/21/'>21</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1402' target='_blank'>Lech Kostecki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1641' target='_blank'>Zbigniew Sobczyk</a></td>
+					<td>5.0<br />12.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-6.68</td><td></td></tr>
+<tr><td>138</td><td><a href='/39582/hist/131/'>131</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25286' target='_blank'>Karolina Zając</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=11244' target='_blank'>Tomasz Kierepka</a></td>
+					<td>0.0<br />2.5</td><td>MP<br />SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-7.18</td><td></td></tr>
+<tr><td>139</td><td><a href='/39582/hist/32/'>32</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23605' target='_blank'>Roman Mróz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=18481' target='_blank'>Piotr Centek</a></td>
+					<td>1.0<br />2.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>-7.81</td><td></td></tr>
+<tr><td>140</td><td><a href='/39582/hist/40/'>40</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19599' target='_blank'>Włodzimierz Suchodolski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19600' target='_blank'>Krzysztof Dembek</a></td>
+					<td>2.0<br />2.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td></td><td>-7.97</td><td></td></tr>
+<tr><td>141</td><td><a href='/39582/hist/193/'>193</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=10540' target='_blank'>Piotr Buchholz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24180' target='_blank'>Agata Kurzawska</a></td>
+					<td>2.0<br />1.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-8.00</td><td></td></tr>
+<tr><td>142</td><td><a href='/39582/hist/70/'>70</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19480' target='_blank'>Krzysztof Dobrzeniecki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=10022' target='_blank'>Piotr Urbański</a></td>
+					<td>3.0<br />5.0</td><td>MA</td><td><a href='/39582/pot-MA/46/'>MA/46</a></td><td>4.80</td><td>-8.57</td><td></td></tr>
+<tr><td>143</td><td><a href='/39582/hist/26/'>26</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1392' target='_blank'>Andrzej Kołodziejczyk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=12072' target='_blank'>Lech Sala</a></td>
+					<td>3.0<br />3.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-9.22</td><td></td></tr>
+<tr><td>144</td><td><a href='/39582/hist/72/'>72</a></td><td class='l'>Jerzy Listkowski<br />Stanisław Szablewski</td>
+					<td>0.0<br />0.0</td><td></td><td><a href='/39582/pot-MA/46/'>MA/46</a></td><td>4.80</td><td>-9.34</td><td></td></tr>
+<tr><td>145</td><td><a href='/39582/hist/191/'>191</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5280' target='_blank'>Waldemar Nowak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15655' target='_blank'>Małgorzata Zielonacka</a></td>
+					<td>5.0<br />5.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-9.61</td><td></td></tr>
+<tr><td>146</td><td><a href='/39582/hist/171/'>171</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23337' target='_blank'>Barbara Pawłowicz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24292' target='_blank'>Marzenka Bieńkuńska</a></td>
+					<td>1.0<br />0.5</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>-10.58</td><td></td></tr>
+<tr><td>147</td><td><a href='/39582/hist/67/'>67</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=14694' target='_blank'>Jan Łubkowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=12923' target='_blank'>Maciej Szalewicz</a></td>
+					<td>5.0<br />7.0</td><td>LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>-10.74</td><td></td></tr>
+<tr><td>148</td><td><a href='/39582/hist/81/'>81</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6225' target='_blank'>Wojciech Palmowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19130' target='_blank'>Andrzej Gotz</a></td>
+					<td>11.0<br />2.5</td><td>MA</td><td><a href='/39582/pot-MA/503/'>MA/503</a></td><td></td><td>-10.84</td><td></td></tr>
+<tr><td>149</td><td><a href='/39582/hist/157/'>157</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25125' target='_blank'>Barbara Łączyńska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=25124' target='_blank'>Tomasz Łączyński</a></td>
+					<td>0.0<br />0.0</td><td>MA</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-10.84</td><td></td></tr>
+<tr><td>150</td><td><a href='/39582/hist/54/'>54</a></td><td class='l'>Elżbieta Warwas<br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=12838' target='_blank'>Grzegorz Lenda</a></td>
+					<td>0.0<br />2.0</td><td><br />LD</td><td><a href='/39582/pot-LD/460/'>LD/460</a></td><td></td><td>-11.12</td><td></td></tr>
+<tr><td>151</td><td><a href='/39582/hist/211/'>211</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21131' target='_blank'>Maciej Kwacz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23633' target='_blank'>Adam Królak</a></td>
+					<td>2.0<br />2.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-11.66</td><td></td></tr>
+<tr><td>152</td><td><a href='/39582/hist/182/'>182</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=4358' target='_blank'>Jakub Milkamanowicz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4469' target='_blank'>Tomasz Stopierzyński</a></td>
+					<td>4.0<br />5.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>-12.22</td><td></td></tr>
+<tr><td>153</td><td><a href='/39582/hist/15/'>15</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21691' target='_blank'>Katarzyna Odomirska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19926' target='_blank'>Jacek Barski</a></td>
+					<td>2.0<br />4.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-12.46</td><td></td></tr>
+<tr><td>154</td><td><a href='/39582/hist/25/'>25</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20026' target='_blank'>Maria Huzar</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20186' target='_blank'>Anna Kozikowska</a></td>
+					<td>1.0<br />3.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-12.48</td><td></td></tr>
+<tr><td>155</td><td><a href='/39582/hist/235/'>235</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24537' target='_blank'>Elżbieta Szmyt</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24536' target='_blank'>Dorota Blicharska</a></td>
+					<td>0.5<br />1.5</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td></td><td>-13.16</td><td></td></tr>
+<tr><td>156</td><td><a href='/39582/hist/213/'>213</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=11355' target='_blank'>Władysław Korbutowicz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6136' target='_blank'>Kazimierz Wiliński</a></td>
+					<td>5.0<br />7.0</td><td>ZP</td><td><a href='/39582/pot-ZP/308/'>ZP/308</a></td><td></td><td>-13.19</td><td></td></tr>
+<tr><td>157</td><td><a href='/39582/hist/233/'>233</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6086' target='_blank'>Ryszard Sawicki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5996' target='_blank'>Zbigniew Lasocki</a></td>
+					<td>7.0<br />12.0</td><td>WP<br />ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>-13.26</td><td></td></tr>
+<tr><td>158</td><td><a href='/39582/hist/65/'>65</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5564' target='_blank'>Paweł Banacki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5712' target='_blank'>Jerzy Markowski</a></td>
+					<td>4.0<br />5.0</td><td>LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>-13.46</td><td></td></tr>
+<tr><td>159</td><td><a href='/39582/hist/145/'>145</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=12478' target='_blank'>Stanisława Piotrowska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4103' target='_blank'>Dariusz Sterniczuk</a></td>
+					<td>2.5<br />5.0</td><td>PD</td><td><a href='/39582/pot-PD/369/'>PD/369</a></td><td></td><td>-13.69</td><td></td></tr>
+<tr><td>160</td><td><a href='/39582/hist/31/'>31</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16336' target='_blank'>Włodzimierz Maćkowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22370' target='_blank'>Bogdan Podgajny</a></td>
+					<td>3.0<br />2.5</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>-14.36</td><td></td></tr>
+<tr><td>161</td><td><a href='/39582/hist/59/'>59</a></td><td class='l'>Marek Kuźniak<br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=12672' target='_blank'>Witold Wdówka</a></td>
+					<td>0.0<br />2.0</td><td>&nbsp;<br />LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>-14.49</td><td></td></tr>
+<tr><td>162</td><td><a href='/39582/hist/83/'>83</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18081' target='_blank'>Anna Liszewska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15824' target='_blank'>Tomasz Kopka</a></td>
+					<td>2.0<br />3.0</td><td>MA</td><td><a href='/39582/pot-MA/86/'>MA/86</a></td><td></td><td>-14.49</td><td></td></tr>
+<tr><td>163</td><td><a href='/39582/hist/92/'>92</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=20268' target='_blank'>Paweł Odrzywół</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1455' target='_blank'>Roland Lippik</a></td>
+					<td>2.0<br />5.0</td><td>DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-14.79</td><td></td></tr>
+<tr><td>164</td><td><a href='/39582/hist/135/'>135</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23760' target='_blank'>Gabriel Rozpara</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24788' target='_blank'>Milena Krzaczek</a></td>
+					<td>0.0<br />0.0</td><td>SW<br />DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-14.90</td><td></td></tr>
+<tr><td>165</td><td><a href='/39582/hist/28/'>28</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1664' target='_blank'>Andrzej Suchodolski</a><br />Antoni Gołębiewski</td>
+					<td>5.0<br />0.0</td><td>DS<br /></td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-15.67</td><td></td></tr>
+<tr><td>166</td><td><a href='/39582/hist/160/'>160</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24612' target='_blank'>Helena Kopeć</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23248' target='_blank'>Andrzej Bazelak</a></td>
+					<td>0.5<br />1.5</td><td>MA</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-15.90</td><td></td></tr>
+<tr><td>167</td><td><a href='/39582/hist/105/'>105</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22987' target='_blank'>Agata Glińska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24212' target='_blank'>Mateusz Janda</a></td>
+					<td>1.0<br />1.0</td><td>SL<br />MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-16.29</td><td></td></tr>
+<tr><td>168</td><td><a href='/39582/hist/202/'>202</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23475' target='_blank'>Ciprian Pitis</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24086' target='_blank'>Liliana Parat</a></td>
+					<td>1.5<br />1.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-16.55</td><td></td></tr>
+<tr><td>169</td><td><a href='/39582/hist/175/'>175</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=4021' target='_blank'>Henryk Bałtronowicz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=4025' target='_blank'>Jan Warda</a></td>
+					<td>2.5<br />2.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>-16.77</td><td></td></tr>
+<tr><td>170</td><td><a href='/39582/hist/189/'>189</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23857' target='_blank'>Szymon Muth</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24150' target='_blank'>Maciej Podhorecki</a></td>
+					<td>1.5<br />1.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-16.96</td><td></td></tr>
+<tr><td>171</td><td><a href='/39582/hist/209/'>209</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21478' target='_blank'>Katarzyna Rzepka</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21548' target='_blank'>Agnieszka Kwacz</a></td>
+					<td>3.0<br />3.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-18.79</td><td></td></tr>
+<tr><td>172</td><td><a href='/39582/hist/146/'>146</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25168' target='_blank'>Jerzy Krawczyk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24265' target='_blank'>Marek Gawryluk</a></td>
+					<td>0.0<br />1.0</td><td>PD</td><td><a href='/39582/pot-PD/369/'>PD/369</a></td><td></td><td>-19.28</td><td></td></tr>
+<tr><td>173</td><td><a href='/39582/hist/122/'>122</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22043' target='_blank'>Emil Mik</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23941' target='_blank'>Antoni Kurnyta</a></td>
+					<td>0.0<br />0.0</td><td>DS<br />MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-19.52</td><td></td></tr>
+<tr><td>174</td><td><a href='/39582/hist/116/'>116</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24793' target='_blank'>Adam Ławnicki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24780' target='_blank'>Adam Grzona</a></td>
+					<td>0.5<br />0.5</td><td>PM</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>-19.59</td><td></td></tr>
+<tr><td>175</td><td><a href='/39582/hist/142/'>142</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24226' target='_blank'>Jan Blaszko</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=11095' target='_blank'>Wiesław Korpula</a></td>
+					<td>1.0<br />1.5</td><td>PD</td><td><a href='/39582/pot-PD/369/'>PD/369</a></td><td></td><td>-19.67</td><td></td></tr>
+<tr><td>176</td><td><a href='/39582/hist/71/'>71</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6222' target='_blank'>Marek Ogrodowczyk</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=6177' target='_blank'>Szymon Dutkiewicz</a></td>
+					<td>3.0<br />5.0</td><td>MA</td><td><a href='/39582/pot-MA/46/'>MA/46</a></td><td>4.80</td><td>-19.75</td><td></td></tr>
+<tr><td>177</td><td><a href='/39582/hist/51/'>51</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5027' target='_blank'>Janusz Grys</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23854' target='_blank'>Ryszard Bromek</a></td>
+					<td>2.5<br />1.0</td><td>LB<br />WP</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>-20.40</td><td></td></tr>
+<tr><td>178</td><td><a href='/39582/hist/174/'>174</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=2008' target='_blank'>Danuta Cieniewska</a><br />Anna Jaskowiak</td>
+					<td>1.5<br />0.0</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>-20.45</td><td></td></tr>
+<tr><td>179</td><td><a href='/39582/hist/77/'>77</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16441' target='_blank'>Witold Moreń</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=13908' target='_blank'>Jerzy Cichowski</a></td>
+					<td>2.5<br />1.5</td><td>MA</td><td><a href='/39582/pot-MA/503/'>MA/503</a></td><td></td><td>-20.48</td><td></td></tr>
+<tr><td>180</td><td><a href='/39582/hist/215/'>215</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=12327' target='_blank'>Anna Kondyjowska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=5957' target='_blank'>Edward Kaczmarek</a></td>
+					<td>5.0<br />11.0</td><td>ZP</td><td><a href='/39582/pot-ZP/308/'>ZP/308</a></td><td></td><td>-21.11</td><td></td></tr>
+<tr><td>181</td><td><a href='/39582/hist/114/'>114</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22264' target='_blank'>Julian Morawski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21963' target='_blank'>Wiktor Wodzyński</a></td>
+					<td>0.5<br />0.5</td><td>PM</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>-21.15</td><td></td></tr>
+<tr><td>182</td><td><a href='/39582/hist/206/'>206</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24737' target='_blank'>Bolesław Dopierała</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24752' target='_blank'>Konrad Goliński</a></td>
+					<td>0.5<br />0.0</td><td>SW<br />WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-21.26</td><td></td></tr>
+<tr><td>183</td><td><a href='/39582/hist/177/'>177</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19534' target='_blank'>Zdzisław Tylko</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21387' target='_blank'>Sylwester Nieke</a></td>
+					<td>2.0<br />2.0</td><td>MA<br />WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>-21.38</td><td></td></tr>
+<tr><td>184</td><td><a href='/39582/hist/30/'>30</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21647' target='_blank'>Krzysztof Ruprik</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19420' target='_blank'>Marek Grużewski</a></td>
+					<td>3.0<br />3.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td>3.60</td><td>-22.98</td><td></td></tr>
+<tr><td>185</td><td><a href='/39582/hist/41/'>41</a></td><td class='l'>Anna Rydzkowska<br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=3885' target='_blank'>Józef Palewicz</a></td>
+					<td>0.0<br />5.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td></td><td>-23.35</td><td></td></tr>
+<tr><td>186</td><td><a href='/39582/hist/151/'>151</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25017' target='_blank'>Alicja Konieczna</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=2030' target='_blank'>Robert Konieczny</a></td>
+					<td>0.0<br />1.5</td><td>LB</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-23.66</td><td></td></tr>
+<tr><td>187</td><td><a href='/39582/hist/10/'>10</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22566' target='_blank'>Krystyna Koba</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=16796' target='_blank'>Zbigniew Wróblewski</a></td>
+					<td>2.0<br />1.5</td><td>DS</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>-23.88</td><td></td></tr>
+<tr><td>188</td><td><a href='/39582/hist/22/'>22</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=10472' target='_blank'>Samuel Bałdysz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1224' target='_blank'>Marek Bałdysz</a></td>
+					<td>7.0<br />13.0</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-24.29</td><td></td></tr>
+<tr><td>189</td><td><a href='/39582/hist/88/'>88</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22919' target='_blank'>Jan Biernat</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24507' target='_blank'>Michał Szromba</a></td>
+					<td>1.5<br />1.0</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>-24.38</td><td></td></tr>
+<tr><td>190</td><td><a href='/39582/hist/129/'>129</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24691' target='_blank'>Aleksander Przybyło</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24505' target='_blank'>Hanna Zając</a></td>
+					<td>0.0<br />1.0</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-24.46</td><td></td></tr>
+<tr><td>191</td><td><a href='/39582/hist/154/'>154</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21705' target='_blank'>Małgorzata Filew</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21709' target='_blank'>Dariusz Strzęboszewski</a></td>
+					<td>0.5<br />0.0</td><td>MA</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-25.17</td><td></td></tr>
+<tr><td>192</td><td><a href='/39582/hist/27/'>27</a></td><td class='l'>Anna Gniewowska<br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1648' target='_blank'>Zbigniew Sosna</a></td>
+					<td>0.0<br />5.0</td><td><br />DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-26.68</td><td></td></tr>
+<tr><td>193</td><td><a href='/39582/hist/106/'>106</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22804' target='_blank'>Tymon Kuflowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20706' target='_blank'>Jakub Michalski</a></td>
+					<td>2.0<br />4.0</td><td>MP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>-27.61</td><td></td></tr>
+<tr><td>194</td><td><a href='/39582/hist/210/'>210</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23164' target='_blank'>Anna Witalewska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23165' target='_blank'>Maciej Witalewski</a></td>
+					<td>1.0<br />1.5</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-28.14</td><td></td></tr>
+<tr><td>195</td><td><a href='/39582/hist/115/'>115</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25015' target='_blank'>Franciszek Ochocki</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24862' target='_blank'>Paweł Ławnicki</a></td>
+					<td>0.0<br />0.5</td><td>PM</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-29.10</td><td></td></tr>
+<tr><td>196</td><td><a href='/39582/hist/229/'>229</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=14205' target='_blank'>Bartosz Muszyński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22820' target='_blank'>Krystyna Kudelska</a></td>
+					<td>2.5<br />1.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>-29.45</td><td></td></tr>
+<tr><td>197</td><td><a href='/39582/hist/79/'>79</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=16082' target='_blank'>Waldemar Surmacz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22619' target='_blank'>Janusz Oleksiak</a></td>
+					<td>3.0<br />1.5</td><td>MA</td><td><a href='/39582/pot-MA/503/'>MA/503</a></td><td></td><td>-29.62</td><td></td></tr>
+<tr><td>198</td><td><a href='/39582/hist/18/'>18</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24098' target='_blank'>Ryszard Hojka</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=8208' target='_blank'>Antoni Pażucha</a></td>
+					<td>1.0<br />2.5</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-30.84</td><td></td></tr>
+<tr><td>199</td><td><a href='/39582/hist/200/'>200</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24294' target='_blank'>Andrzej Kuczyński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22189' target='_blank'>Jan Ludwig</a></td>
+					<td>1.5<br />2.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-30.99</td><td></td></tr>
+<tr><td>200</td><td><a href='/39582/hist/184/'>184</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=1117' target='_blank'>Jerzy Szczepański</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=1420' target='_blank'>Elżbieta Olejnik</a></td>
+					<td>1.5<br />0.5</td><td>WM</td><td><a href='/39582/pot-WM/459/'>WM/459</a></td><td></td><td>-31.37</td><td></td></tr>
+<tr><td>201</td><td><a href='/39582/hist/66/'>66</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5836' target='_blank'>Piotr Szczeciński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22496' target='_blank'>Janusz Budzyński</a></td>
+					<td>5.0<br />1.5</td><td>LD</td><td><a href='/39582/pot-LD/478/'>LD/478</a></td><td></td><td>-32.18</td><td></td></tr>
+<tr><td>202</td><td><a href='/39582/hist/137/'>137</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23944' target='_blank'>Antoni Krakowski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24022' target='_blank'>Dawid Gajewski</a></td>
+					<td>0.0<br />0.0</td><td>SW</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-32.22</td><td></td></tr>
+<tr><td>203</td><td><a href='/39582/hist/42/'>42</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=3744' target='_blank'>Andrzej Jarmużek</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=8379' target='_blank'>Zdzisław Zachwieja</a></td>
+					<td>5.0<br />4.0</td><td>KP</td><td><a href='/39582/pot-KP/50/'>KP/50</a></td><td></td><td>-32.53</td><td></td></tr>
+<tr><td>204</td><td><a href='/39582/hist/161/'>161</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=3185' target='_blank'>Zbigniew Guła</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=3155' target='_blank'>Mariusz Gawłowski</a></td>
+					<td>13.0<br />4.0</td><td>SL</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-32.96</td><td></td></tr>
+<tr><td>205</td><td><a href='/39582/hist/153/'>153</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25199' target='_blank'>Katarzyna Cyran</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=9565' target='_blank'>Łukasz Górzyński</a></td>
+					<td>0.0<br />2.0</td><td>DS</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-33.11</td><td></td></tr>
+<tr><td>206</td><td><a href='/39582/hist/86/'>86</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=17953' target='_blank'>Wojciech Stencel</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19070' target='_blank'>Małgorzata Duda</a></td>
+					<td>2.0<br />2.0</td><td>MA</td><td><a href='/39582/pot-MA/86/'>MA/86</a></td><td></td><td>-34.05</td><td></td></tr>
+<tr><td>207</td><td><a href='/39582/hist/17/'>17</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24162' target='_blank'>Zbigniew Podgajny</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24647' target='_blank'>Dorota Czubak</a></td>
+					<td>0.5<br />0.5</td><td>DS</td><td><a href='/39582/pot-DS/380/'>DS/380</a></td><td></td><td>-34.97</td><td></td></tr>
+<tr><td>208</td><td><a href='/39582/hist/55/'>55</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22117' target='_blank'>Natalia Działecka</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15395' target='_blank'>Andrzej Duszyński</a></td>
+					<td>1.0<br />4.0</td><td>LD</td><td><a href='/39582/pot-LD/460/'>LD/460</a></td><td></td><td>-35.00</td><td></td></tr>
+<tr><td>209</td><td><a href='/39582/hist/149/'>149</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22100' target='_blank'>Dorota Kram</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23598' target='_blank'>Elżbieta Kosztyła</a></td>
+					<td>0.0<br />0.0</td><td>MP</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-36.15</td><td></td></tr>
+<tr><td>210</td><td><a href='/39582/hist/94/'>94</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22866' target='_blank'>Piotr Dudzik</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=21409' target='_blank'>Wojciech Bąk</a></td>
+					<td>1.5<br />1.5</td><td>SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-38.21</td><td></td></tr>
+<tr><td>211</td><td><a href='/39582/hist/99/'>99</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23948' target='_blank'>Maria Kulas</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23946' target='_blank'>Amelia Sip</a></td>
+					<td>0.0<br />0.0</td><td>DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-38.63</td><td></td></tr>
+<tr><td>212</td><td><a href='/39582/hist/124/'>124</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24958' target='_blank'>Ryszard Słowik</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24959' target='_blank'>Tymoteusz Bartos</a></td>
+					<td>0.0<br />0.0</td><td>SL</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-39.15</td><td></td></tr>
+<tr><td>213</td><td><a href='/39582/hist/224/'>224</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=19400' target='_blank'>Zygmunt Żmuda-Trzebiatowski</a><br />Jurata Kacalska</td>
+					<td>2.0<br />0.0</td><td>ZP<br /></td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>-40.40</td><td></td></tr>
+<tr><td>214</td><td><a href='/39582/hist/141/'>141</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=14276' target='_blank'>Pavel Klebanovich</a><br />Daria Klebanovich</td>
+					<td>7.0<br />0.0</td><td>PD<br /></td><td><a href='/39582/pot-PD/369/'>PD/369</a></td><td></td><td>-41.71</td><td></td></tr>
+<tr><td>215</td><td><a href='/39582/hist/150/'>150</a></td><td class='l'>Danuta Mioduszewska<br />Katarzyna Kamińska</td>
+					<td>0.0<br />0.0</td><td></td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-42.79</td><td></td></tr>
+<tr><td>216</td><td><a href='/39582/hist/1/'>1</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=18631' target='_blank'>Mirosław Urbaniak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15228' target='_blank'>Stanisław Cygan</a></td>
+					<td>1.0<br />2.0</td><td>DS</td><td><a href='/39582/pot-DS/336/'>DS/336</a></td><td>3.60</td><td>-43.72</td><td></td></tr>
+<tr><td>217</td><td><a href='/39582/hist/102/'>102</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23919' target='_blank'>Aniela Woźniak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23025' target='_blank'>Jakub Woźniak</a></td>
+					<td>0.0<br />0.5</td><td>WP</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td>2.40</td><td>-47.27</td><td></td></tr>
+<tr><td>218</td><td><a href='/39582/hist/45/'>45</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=23002' target='_blank'>Elżbieta Wójtowicz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23001' target='_blank'>Maria Borkowska</a></td>
+					<td>1.0<br />0.5</td><td>LB</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>-47.42</td><td></td></tr>
+<tr><td>219</td><td><a href='/39582/hist/194/'>194</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24502' target='_blank'>Wojciech Jasielski</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=25237' target='_blank'>Tetiana Boloteniuk</a></td>
+					<td>0.5<br />0.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-48.17</td><td></td></tr>
+<tr><td>220</td><td><a href='/39582/hist/97/'>97</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24003' target='_blank'>Lena Cudzich</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=20340' target='_blank'>Anna Kokot</a></td>
+					<td>0.0<br />0.5</td><td>DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-48.61</td><td></td></tr>
+<tr><td>221</td><td><a href='/39582/hist/227/'>227</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=21413' target='_blank'>Dariusz Grochowiak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=19399' target='_blank'>Bogumiła Kuryj</a></td>
+					<td>2.0<br />2.0</td><td>ZP</td><td><a href='/39582/pot-ZP/482/'>ZP/482</a></td><td>2.40</td><td>-48.69</td><td></td></tr>
+<tr><td>222</td><td><a href='/39582/hist/123/'>123</a></td><td class='l'>Anastazja Serafinowicz<br />Łucja Serafinowicz</td>
+					<td>0.0<br />0.0</td><td></td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-49.16</td><td></td></tr>
+<tr><td>223</td><td><a href='/39582/hist/158/'>158</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22513' target='_blank'>Krzysztof Bohosiewicz</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23757' target='_blank'>Ewa Olejarczyk</a></td>
+					<td>0.0<br />0.5</td><td>MP</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-50.76</td><td></td></tr>
+<tr><td>224</td><td><a href='/39582/hist/133/'>133</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=24792' target='_blank'>Hanna Kurasiak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24883' target='_blank'>Lena Hołod-Bawer</a></td>
+					<td>0.0<br />0.0</td><td>DS</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-52.53</td><td></td></tr>
+<tr><td>225</td><td><a href='/39582/hist/218/'>218</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=6021' target='_blank'>Witold Mateńko</a><br />Elżbieta Kowalczyk</td>
+					<td>4.0<br />0.0</td><td>ZP<br /></td><td><a href='/39582/pot-ZP/308/'>ZP/308</a></td><td></td><td>-53.03</td><td></td></tr>
+<tr><td>226</td><td><a href='/39582/hist/109/'>109</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=25014' target='_blank'>Małgorzata Kowalkowska</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=24761' target='_blank'>Monika Kurdziel</a></td>
+					<td>0.0<br />0.0</td><td>PM</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-59.13</td><td></td></tr>
+<tr><td>227</td><td><a href='/39582/hist/107/'>107</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=22203' target='_blank'>Miłosz Redlica</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=22206' target='_blank'>Krystian Kasprzyk</a></td>
+					<td>1.0<br />1.0</td><td>SW</td><td><a href='/39582/pot-MP/199/'>MP/199</a></td><td></td><td>-69.77</td><td></td></tr>
+<tr><td>228</td><td><a href='/39582/hist/50/'>50</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=12889' target='_blank'>Ryszard Jakubczak</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=23550' target='_blank'>Zdzisław Borkowski</a></td>
+					<td>3.0<br />0.0</td><td>LB</td><td><a href='/39582/pot-LB/385/'>LB/385</a></td><td>3.60</td><td>-70.15</td><td></td></tr>
+<tr><td>229</td><td><a href='/39582/hist/207/'>207</a></td><td class='l'><a href='http://www.msc.com.pl/cezar/?p=21&pid=5430' target='_blank'>Janusz Suszczyński</a><br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=15577' target='_blank'>Lidia Suszczyńska</a></td>
+					<td>5.0<br />2.0</td><td>WP</td><td><a href='/39582/pot-WP/403/'>WP/403</a></td><td></td><td>-71.24</td><td></td></tr>
+<tr><td>230</td><td><a href='/39582/hist/166/'>166</a></td><td class='l'>Lucjan Szydło<br /><a href='http://www.msc.com.pl/cezar/?p=21&pid=25046' target='_blank'>Zofia Wąsik</a></td>
+					<td>0.0<br />0.0</td><td><br />MA</td><td><a href='/39582/pot-SL/41/'>SL/41</a></td><td></td><td>-81.48</td><td></td></tr>
+	</table>
+	<p><a href="/39582/summary" class="i">Statystyka ośrodków...</a></p>
+	<div id="footer">
+		Wygenerowano 2025-08-16, 00:10:14<br />		&copy; BridgeSpider Sp. z o.o.
+	</div>
+</div>
+<script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+</body>
+</html>

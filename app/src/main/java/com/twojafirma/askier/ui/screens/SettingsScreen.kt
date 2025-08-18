@@ -2,7 +2,8 @@ package com.twojafirma.askier.ui.screens
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
-import androidx.compose.foundation.lazy.LazyColumn
+// import androidx.compose.foundation.lazy.LazyColumn // Już nie jest potrzebny tutaj, jeśli tylko opcje motywu
+// import androidx.compose.foundation.lazy.items // Już nie jest potrzebny tutaj
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.RadioButton
 import androidx.compose.material3.Text
@@ -13,36 +14,40 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.twojafirma.askier.ui.data.ThemeSetting
+// Usunięto importy związane z wyświetlaniem turnieju
 
 @Composable
-fun SettingsScreen(viewModel: SettingsViewModel) {
+fun SettingsScreen(
+    viewModel: SettingsViewModel
+    // Usunięto parametr onNavigateToPlayerProfile
+) {
     val currentTheme by viewModel.themeSetting.collectAsState()
+    // Usunięto stan showParsedResults
 
-    LazyColumn(
-        contentPadding = PaddingValues(16.dp),
-        verticalArrangement = Arrangement.spacedBy(8.dp)
+    // Używamy Column zamiast LazyColumn, jeśli zawartość jest statyczna i krótka
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(16.dp)
+        // verticalArrangement = Arrangement.spacedBy(8.dp) // Można dodać, jeśli potrzebne
     ) {
-        item {
-            Text(
-                text = "Ustawienia",
-                style = MaterialTheme.typography.headlineMedium,
-                modifier = Modifier.padding(bottom = 16.dp)
+        Text(
+            text = "Ustawienia",
+            style = MaterialTheme.typography.headlineMedium,
+            modifier = Modifier.padding(bottom = 16.dp)
+        )
+        Text("Motyw aplikacji", style = MaterialTheme.typography.titleMedium)
+
+        ThemeSetting.entries.forEach { theme ->
+            ThemeOptionRow(
+                text = theme.toDisplayString(),
+                selected = currentTheme == theme,
+                onClick = { viewModel.onThemeSelected(theme) }
             )
         }
-        item {
-            Text("Motyw aplikacji", style = MaterialTheme.typography.titleMedium)
-        }
 
-        // Tworzymy opcje wyboru dla każdego motywu
-        ThemeSetting.entries.forEach { theme ->
-            item {
-                ThemeOptionRow(
-                    text = theme.toDisplayString(),
-                    selected = currentTheme == theme,
-                    onClick = { viewModel.onThemeSelected(theme) }
-                )
-            }
-        }
+        // Usunięto przycisk "Pokaż wyniki testu HTML"
+        // Usunięto warunkowe wywołanie DisplayParsedTournamentResults
     }
 }
 
@@ -64,7 +69,6 @@ fun ThemeOptionRow(text: String, selected: Boolean, onClick: () -> Unit) {
     }
 }
 
-// Funkcja pomocnicza do ładnego wyświetlania nazw
 fun ThemeSetting.toDisplayString(): String {
     return when (this) {
         ThemeSetting.SYSTEM -> "Systemowy"
@@ -72,3 +76,5 @@ fun ThemeSetting.toDisplayString(): String {
         ThemeSetting.DARK -> "Ciemny"
     }
 }
+
+// Usunięto funkcje DisplayParsedTournamentResults, ParsedPairResultItem, ParsedPlayerInfoView
